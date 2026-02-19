@@ -1,0 +1,4 @@
+git init - für den start
+git add <file>
+git commit -m "your commit message"
+git add . **gibt den ganzen Ordner mit.
