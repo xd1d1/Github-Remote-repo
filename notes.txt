@@ -7,3 +7,5 @@ git push -u origin main // um von git commit nach github res
 git reset --soft HEAD~1 // nimmt nur den letzetn commit , aber die Önderungen werden in staging wieder zurück gepackt
 git reset --mixed HEAD~1 // löscht den letzten commit komplett raus, und wird ins working directory gepackt (also arbeitsbereich)
 git reset --hard HEAD~1 // löscht alles komplett weg. Also kommt weder ins staging rein, noch weder ins working directory
+
+
