@@ -10,6 +10,6 @@ git reset --mixed HEAD~1 // löscht den letzten commit komplett raus, und wird i
 git reset --hard HEAD~1 // löscht alles komplett weg. Also kommt weder ins staging rein, noch weder ins working directory
 
 
-Wenn alles bereits auf github ist
+Wenn alles bereits auf github ist - 
 
-git hart
+git revert commitID
