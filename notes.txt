@@ -12,4 +12,4 @@ git reset --hard HEAD~1 // löscht alles komplett weg. Also kommt weder ins stag
 
 Wenn alles bereits auf github ist
 
-git hart
+git revert commitID hart
