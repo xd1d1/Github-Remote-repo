@@ -12,4 +12,9 @@ git reset --hard HEAD~1 // löscht alles komplett weg. Also kommt weder ins stag
 
 Wenn alles bereits auf github ist - 
 
-git revert commitID
+git revert commitID - der zieht dann sich sozugen den stand den vorherigen standes also vor dem commit, gibt uns den. Wir müssen allerdings dann auch den dann auch commiten
+
+
+clone repository
+
+git clone GitHub-URL .
